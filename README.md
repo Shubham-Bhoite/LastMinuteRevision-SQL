@@ -11,3 +11,6 @@ Here we have last minute revision notes of SQL. These questions will familiarize
 
 ![image](https://github.com/Shubham-Bhoite/LastMinuteRevision-SQL/assets/117765637/02085606-4838-4b35-b515-8a0d848da774)
 
+![image](https://github.com/Shubham-Bhoite/LastMinuteRevision-SQL/assets/117765637/f819ed83-5ae7-449f-9685-c498756cf925)
+
+![image](https://github.com/Shubham-Bhoite/LastMinuteRevision-SQL/assets/117765637/f4e40283-fdff-40df-a1ab-a9db1011f7f4)
