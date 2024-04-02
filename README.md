@@ -68,3 +68,5 @@ Here we have last minute revision notes of SQL. These questions will familiarize
 ![image](https://github.com/Shubham-Bhoite/LastMinuteRevision-SQL/assets/117765637/e12fdfdf-ed09-4c33-87a0-7cfdaa0dbe0b)
 
 ![image](https://github.com/Shubham-Bhoite/LastMinuteRevision-SQL/assets/117765637/b39cbeb2-083b-4a3b-aaad-dfe6dd211346)
+
+![image](https://github.com/Shubham-Bhoite/LastMinuteRevision-SQL/assets/117765637/420da110-97a2-4747-9541-e47297225bad)
