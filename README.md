@@ -99,3 +99,4 @@ Here we have last minute revision notes of SQL. These questions will familiarize
 
 ![image](https://github.com/Shubham-Bhoite/LastMinuteRevision-SQL/assets/117765637/e5b13ade-7f0b-44f7-a1ce-02f78c40a6c7)
 
+![image](https://github.com/Shubham-Bhoite/LastMinuteRevision-SQL/assets/117765637/0c34ead2-4738-4961-9e27-c74d477bd6e4)
